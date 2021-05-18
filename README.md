@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **florian-nguyen/florian-nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-Hello World! I'm **Florian**!
+## Hello World! I'm **Florian**! 👋
 
 - :fr: I’m a young French pluridisciplinary engineer
 - 🌱 I’m currently learning **Golang**, **JavaScript** and more generally **web development**
