@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hello World! I'm **Florian**!
+
+- :fr: I’m a young French pluridisciplinary engineer
+- 🌱 I’m currently learning **Golang**, **JavaScript** and more generally **web development**
+- 🤔 I’m looking for help with **learning advice on Golang to build real-life web applications**
+- ⚡ Miscellaneous: I am fluent in :jp:, :de: and :uk: !
+
+:pushpin: Check out my portfolio & resume page at : https://florian-nguyen.github.io/
