@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with **learning advice on Golang to build real-life web applications**
 - ⚡ Miscellaneous: I am fluent in :jp:, :de: and :uk: !
 
-:pushpin: Check out my portfolio & resume page at : https://florian-nguyen.github.io/
+:pushpin: Portfolio & resume at : https://florian-nguyen.github.io/
+:pushpin: Email : (florian.nguyen@yahoo.fr)[mailto:florian.nguyen@yahoo.fr]
