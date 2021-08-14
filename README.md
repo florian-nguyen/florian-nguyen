@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 
 ## Hello World! I'm **Florian**! 👋
 
-- :fr: I’m a young French pluridisciplinary engineer
-- 🌱 I’m currently learning **Golang**, **JavaScript** and more generally **web development**
-- 🤔 I’m looking for help with **learning advice on Golang to build real-life web applications**
-- ⚡ Miscellaneous: I am fluent in :jp:, :de: and :uk: !
+- :fr: I’m a French engineer and fullstack web developer
+- 🌱 I’m currently learning **Golang**, **React**, **GraphQL** and more generally **web development**
+- ✨ There isn't a day that I spend without **learning something new**, whether programming-related or not!
+- ⚡ Feel free to contact me in any of these languages : :fr:, :jp:, :de: and :uk: !
 
-:pushpin: Portfolio & resume at : https://florian-nguyen.github.io/
-:pushpin: Email : (florian.nguyen@yahoo.fr)[mailto:florian.nguyen@yahoo.fr]
+:pushpin: Portfolio & resume at : https://florian-nguyen.github.io
+
+:pushpin: Email : [florian.nguyen@yahoo.fr](mailto:florian.nguyen@yahoo.fr)
