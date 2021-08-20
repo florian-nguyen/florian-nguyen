@@ -6,7 +6,7 @@ I am a very curious, creative and motivated person, who enjoys learning new thin
 
 ## :mailbox: Contact Information
 
-You can contact me using the following links, either in :jp:, :uk:, :de: or :fr: !
+You can contact me using the following links, either in :jp:, :uk:, :de: or :fr: ! <br><br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florian-nguyen-b515a3ab/) [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat-square&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nguyenflorian.fr@gmail.com)
 
 
