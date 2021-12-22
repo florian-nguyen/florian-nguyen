@@ -12,7 +12,15 @@ You can contact me using the following links, either in :jp:, :uk:, :de: or :fr:
 
 ## Technologies
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) <img hspace="1px"> [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) <img hspace="1px"> [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) <img hspace="1px"> [![Express Badge](https://img.shields.io/badge/-Express-8C9CA9?style=for-the-badge&labelColor=black&logo=express&logoColor=8C9CA9)](#) <img hspace="1px"> [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) <img hspace="1px"> [![PostgreSQL Badge](https://img.shields.io/badge/-postgresql-2F6792?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=2F6792)](#) <img hspace="1px"> [![MongoDB Badge](https://img.shields.io/badge/-mongodb-21AA50?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=21AA50)](#) <img hspace="1px"> [![Golang Badge](https://img.shields.io/badge/-golang-00ADD8?style=for-the-badge&labelColor=black&logo=go&logoColor=00ADD8)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) <img hspace="2px">
+[![TypeScript Badge](https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)](#) <img hspace="2px">
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) <img hspace="2px"> 
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) <img hspace="2px"> 
+[![Express Badge](https://img.shields.io/badge/-Express-8C9CA9?style=for-the-badge&labelColor=black&logo=express&logoColor=8C9CA9)](#) <img hspace="2px"> 
+[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#) <img hspace="2px"> [![PostgreSQL Badge](https://img.shields.io/badge/-postgresql-2F6792?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=2F6792)](#) <img hspace="2px"> 
+[![MongoDB Badge](https://img.shields.io/badge/-mongodb-21AA50?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=21AA50)](#) <img hspace="2px"> 
+[![Golang Badge](https://img.shields.io/badge/-golang-00ADD8?style=for-the-badge&labelColor=black&logo=go&logoColor=00ADD8)](#) <img hspace="2px">
+[![NestJS Badge](https://img.shields.io/badge/-nestjs-E0234E?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=E0234E)](#) <img hspace="2px">
 
 
 ## Portfolio / Resume
